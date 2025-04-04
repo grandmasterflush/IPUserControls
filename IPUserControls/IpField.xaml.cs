@@ -221,6 +221,7 @@ namespace IPUserControls
             switch (e.Key)
             {
                 case Key.OemPeriod:
+                case Key.Decimal: // Added to get number pad "." working. May cause problems on some European keyboards where the ',' and '.' are used differently?
                 case Key.Enter:
                     textBox.MoveFocus(new TraversalRequest(FocusNavigationDirection.Right));
                     if (textBox.Text == "0")
