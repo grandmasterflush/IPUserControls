@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31129.286
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototyping", "Prototyping\Prototyping.csproj", "{F481A6D4-E105-497E-8772-C736E9EEB1FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPUserControls", "IPUserControls\IPUserControls.csproj", "{96C79F86-B591-49C2-A3AA-98FA9C29A126}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototyping Prism", "Prototyping Prism\Prototyping Prism.csproj", "{4544605C-82B9-4164-9A21-11F04A7493E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototyping.Prism", "Prototyping Prism\Prototyping.Prism.csproj", "{4544605C-82B9-4164-9A21-11F04A7493E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

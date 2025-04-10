@@ -15,6 +15,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>Images\IPUserControls.ico</ApplicationIcon>
+    <AssemblyVersion>2.00.0</AssemblyVersion>
   </PropertyGroup>
   <ItemGroup>
     <Resource Include="Images\IPUserControls.ico" />
