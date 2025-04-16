@@ -43,7 +43,7 @@ jobs:
     - uses: actions/upload-pages-artifact@v3
       with:
         name: nuget
-        # if-no-files-found: error
+        if-no-files-found: error
         retention-days: 7
         path: ${{ env.NuGetDirectory }}/*.nupkg
 
