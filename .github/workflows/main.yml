@@ -23,6 +23,10 @@ defaults:
     shell: pwsh
 
 jobs:
+
+  build:
+
+
   create_nuget:
     runs-on: windows-latest
     steps:
