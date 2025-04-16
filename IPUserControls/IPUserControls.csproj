@@ -17,7 +17,7 @@
   <PropertyGroup>
     <ApplicationIcon>Images\IPUserControls.ico</ApplicationIcon>
     <AssemblyVersion>2.00.0</AssemblyVersion>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="dotnet-desktop.yml" />
