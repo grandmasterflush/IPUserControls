@@ -20,6 +20,9 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove="dotnet-desktop.yml" />
+  </ItemGroup>
+  <ItemGroup>
     <Resource Include="Images\IPUserControls.ico" />
   </ItemGroup>
   <ItemGroup>
