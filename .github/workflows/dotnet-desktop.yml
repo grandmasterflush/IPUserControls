@@ -45,7 +45,8 @@ jobs:
 
     # Pack NuGet package
     - name: Create NuGet package
-      run: dotnet pack ${{ env.Solution_Name }}.sln --configuration ${{ matrix.configuration }} -v d --output ./artifacts
+      #run: dotnet pack ${{ env.Solution_Name }}.sln --configuration ${{ matrix.configuration }} -v d --output ./artifacts
+      run: dotnet pack --configuration Release --output .
 
     # Deploy NuGet package
     - name: Push NuGet package
