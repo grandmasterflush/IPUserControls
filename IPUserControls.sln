@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototyping", "Prototyping\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototyping.Prism", "Prototyping Prism\Prototyping.Prism.csproj", "{4544605C-82B9-4164-9A21-11F04A7493E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPUserControls", "IPUserControls\IPUserControls.csproj", "{7EA540B6-1BD8-4AE9-9DBB-6141F51D76D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPUserControls", "IPControls\IPUserControls.csproj", "{26B06B8D-8A21-4F40-A666-B73DDECB41D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{4544605C-82B9-4164-9A21-11F04A7493E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4544605C-82B9-4164-9A21-11F04A7493E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4544605C-82B9-4164-9A21-11F04A7493E6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7EA540B6-1BD8-4AE9-9DBB-6141F51D76D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EA540B6-1BD8-4AE9-9DBB-6141F51D76D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EA540B6-1BD8-4AE9-9DBB-6141F51D76D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EA540B6-1BD8-4AE9-9DBB-6141F51D76D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B06B8D-8A21-4F40-A666-B73DDECB41D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B06B8D-8A21-4F40-A666-B73DDECB41D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B06B8D-8A21-4F40-A666-B73DDECB41D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B06B8D-8A21-4F40-A666-B73DDECB41D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

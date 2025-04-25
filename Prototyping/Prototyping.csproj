@@ -12,7 +12,7 @@
     <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\IPUserControls\IPUserControls.csproj" />
+    <ProjectReference Include="..\IPControls\IPUserControls.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Properties\Settings.Designer.cs">
